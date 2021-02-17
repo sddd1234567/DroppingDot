@@ -1,0 +1,6 @@
+framework module ViidleSDK {
+  umbrella header "ViidleSDK.h"
+
+  export *
+  module * { export * }
+}
